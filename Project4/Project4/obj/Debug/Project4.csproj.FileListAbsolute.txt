@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\HP\source\repos\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\HP\source\repos\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\HP\source\repos\Project4\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Project4\Project4\obj\Debug\Project4.Form1.resources
+C:\Users\HP\source\repos\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\HP\source\repos\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\HP\source\repos\Project4\Project4\obj\Debug\Project4.pdb
